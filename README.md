@@ -1,5 +1,5 @@
 # IITB-CPU
-##Architecture
+## Architecture
 IITB-CPU is a very simple 16-bit computer developed for the teaching that is based on the Little
 Computer Architecture. The IITB-CPU is an 8-register, 16-bit computer system. It has 8 general-purpose
 registers (R0 to R7). Register R7 is always stores Program Counter. PC points to the next instruction. All

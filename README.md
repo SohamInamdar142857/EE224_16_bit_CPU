@@ -10,5 +10,5 @@ general enough to solve complex problems. The architecture allows predicated ins
 and multiple load and store execution. There are three machine-code instruction formats (R, I, and J
 type) and a total of 14 instructions.
 
-##Instruction Set Architecture
+## Instruction Set Architecture
 Information for the 14 instructions supported by the IITB-CPU and their encoding can be found in the [Problem Statement](https://github.com/SohamInamdar142857/EE224_16_bit_CPU/blob/main/EE224-IITB-CPU-Project.pdf).

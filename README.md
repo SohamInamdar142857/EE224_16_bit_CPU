@@ -13,6 +13,9 @@ type) and a total of 14 instructions.
 ## Instruction Set Architecture
 Information for the 14 instructions supported by the IITB-CPU and their encoding can be found in the [Problem Statement](https://github.com/SohamInamdar142857/EE224_16_bit_CPU/blob/main/EE224-IITB-CPU-Project.pdf).
 
+## Simulation
+Simulation and testing of IIT-B CPU was performed and it was observed that the CPU efficiently uses all the components to process the given instructions. The states were made using the state diagram. The states were executed according to the state diagram.
+
 ## Contributors
 * Ayush Joshi
 * Harsh Amit Shah
